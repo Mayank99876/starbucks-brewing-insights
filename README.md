@@ -75,7 +75,7 @@ Use available filters and slicers to explore the dataset based on selected nutri
 <!-- Add your dashboard screenshot below -->
 <!-- Upload an image named dashboard.png to this repository -->
 
-![Starbucks Brewing Insights Dashboard](dashboard.png)
+![Starbucks Brewing Insights Dashboard](starbucks%20analysis.png)
 
 ## 🚀 How to Use
 
