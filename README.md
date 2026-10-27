@@ -1,9 +1,13 @@
 
 # ☕ Starbucks Brewing Insights | Power BI Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-217346?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+## 🖥️ Dashboard Preview
+
+<!-- Add your dashboard screenshot below -->
+<!-- Upload an image named dashboard.png to this repository -->
+
+![Starbucks Brewing Insights Dashboard](starbucks%20analysis.png)
+
 
 ## 📌 Project Overview
 
@@ -70,12 +74,6 @@ Use available filters and slicers to explore the dataset based on selected nutri
 - DAX Measures, where applicable
 - Analytical Thinking and Insight Generation
 
-## 🖥️ Dashboard Preview
-
-<!-- Add your dashboard screenshot below -->
-<!-- Upload an image named dashboard.png to this repository -->
-
-![Starbucks Brewing Insights Dashboard](starbucks%20analysis.png)
 
 ## 🚀 How to Use
 
