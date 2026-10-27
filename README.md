@@ -1,5 +1,8 @@
 
 # ☕ Starbucks Brewing Insights | Power BI Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-217346?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 🖥️ Dashboard Preview
 
